@@ -1,2 +1,2 @@
 # SpringApp
-A responsive landing page.
+A responsive landing page built with Spring Template.
